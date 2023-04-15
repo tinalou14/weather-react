@@ -12,7 +12,7 @@ function App() {
         <Weather />
        
         <h5>
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://github.com/tinalou14/weather-react" target="_blank" rel="noreferrer">
           Open-source code
         </a>
         , by Tina Cooke from <a href="https://shecodes.io/" target="_blank" rel="noreferrer">She Codes</a>
